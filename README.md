@@ -1,6 +1,6 @@
 # Syncfusion JavaScript Pivot Table – Virtual Scrolling Example
 
-This sample demonstrates **Virtual Scrolling** in the [Syncfusion JavaScript Pivot Table](https://ej2.syncfusion.com/documentation/pivotview/getting-started) component. Virtual scrolling helps you handle **large datasets efficiently** by loading rows and columns on demand as you scroll, instead of rendering all data at once.
+This sample demonstrates **Virtual Scrolling** in the [Syncfusion JavaScript Pivot Table](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started) component. Virtual scrolling helps you handle **large datasets efficiently** by loading rows and columns on demand as you scroll, instead of rendering all data at once.
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ In this example:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sridhar-Karunakaran/virtual-scrolling-in-pivot-table
+   git clone https://github.com/SyncfusionExamples/virtual-scrolling-in-pivot-table
    ```
 
 2. **Install dependencies (optional):**
@@ -56,8 +56,8 @@ In this example:
 
 ## 📚 Learn More
 
-- [Pivot Table Documentation](https://ej2.syncfusion.com/documentation/pivotview/getting-started)
-- [Pivot Table Demos](https://ej2.syncfusion.com/demos/#/tailwind3/pivot-table/overview)
+- [Pivot Table Documentation](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started)
+- [Pivot Table Demos](https://ej2.syncfusion.com/javascript/demos/#/tailwind3/pivot-table/overview.html)
 
 ## 💬 Support
 
